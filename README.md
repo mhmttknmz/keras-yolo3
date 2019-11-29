@@ -1,5 +1,4 @@
-# YOLO3 (Detection, Training, and Evaluation)
-
+# YOLO3 (Detection, Training, and Evaluation)deneme
 ## Dataset and Model
 
 Dataset | mAP | Demo | Config | Model
