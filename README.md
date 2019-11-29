@@ -1,4 +1,5 @@
-# YOLO3 (Detection, Training, and Evaluation)deneme
+# YOLO3 (Detection, Training, and Evaluation)
+
 ## Dataset and Model
 
 Dataset | mAP | Demo | Config | Model
@@ -7,6 +8,8 @@ Kangaroo Detection (1 class) (https://github.com/experiencor/kangaroo) | 95% | h
 Raccoon Detection (1 class) (https://github.com/experiencor/raccoon_dataset) | 98% | https://youtu.be/lxLyLIL7OsU | check zoo | http://bit.do/ekQFf
 Red Blood Cell Detection (3 classes) (https://github.com/experiencor/BCCD_Dataset) | 84% | https://imgur.com/a/uJl2lRI | check zoo | http://bit.do/ekQFc
 VOC (20 classes) (http://host.robots.ox.ac.uk/pascal/VOC/voc2012/) | 72% | https://youtu.be/0RmOI6hcfBI | check zoo | http://bit.do/ekQE5
+
+**-Added return bbox function for reachable bounding box coordinates for detection.**
 
 ## Todo list:
 - [x] Yolo3 detection
